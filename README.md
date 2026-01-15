@@ -2,7 +2,7 @@
 
 
 🔗 Acesse o projeto online:
-
+https://joaossilva-dev.github.io/html.css-b7Burguer/
 
 
 Landing page de uma hamburgueria fictícia desenvolvida com HTML e CSS.
